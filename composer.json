@@ -28,8 +28,8 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "1.0.x-dev",
-      "dev-v9master": "2.0.x-dev"
+      "dev-legacy": "1.0.x-dev",
+      "dev-master": "2.1.x-dev"
     }
   },
   "autoload": {
